@@ -2,11 +2,11 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/a920d297-289f-46ea-aa8b-338f484ad83c.htm" />
-  <HelpTOCNode Id="3aefc7e7-91fe-416d-8931-f2179f81d839" Title="Reference" Url="html/024fc6c3-ddd0-c61b-9b85-0a8542d69e25.htm">
-    <HelpTOCNode Id="c6011133-af59-4e40-83c9-fa83e899eb40" Title="Ditto.AsyncInit" Url="html/788c74db-682e-cb91-ffa0-d328e53b5b45.htm">
-      <HelpTOCNode Id="5bf3ce8d-b3d0-4668-b858-f58dbbd7832f" Title="AsyncActivator Class" Url="html/a0d22d67-ec48-2755-a1d4-3cce05477b43.htm">
-        <HelpTOCNode Id="15b6eb2d-ec4b-40f2-81f1-066d92fde6a7" Title="AsyncActivator Methods" Url="html/d5167396-f071-c077-580a-2c24b6d36803.htm">
-          <HelpTOCNode Id="04cc162a-c57a-4b0b-8af9-8a27b10b840e" Title="CreateAsync Method " Url="html/a384c895-1b53-3ee2-be46-cd18009a9b96.htm">
+  <HelpTOCNode Id="7733a28c-f3e2-4237-8edf-e40cdb128215" Title="Reference" Url="html/024fc6c3-ddd0-c61b-9b85-0a8542d69e25.htm">
+    <HelpTOCNode Id="6c39782e-0038-4e82-9f0c-690c6d9cb6a8" Title="Ditto.AsyncInit" Url="html/788c74db-682e-cb91-ffa0-d328e53b5b45.htm">
+      <HelpTOCNode Id="b157d70e-3ef0-4a7f-93f3-f0f1b8dd7d68" Title="AsyncActivator Class" Url="html/a0d22d67-ec48-2755-a1d4-3cce05477b43.htm">
+        <HelpTOCNode Id="94997b54-90f4-4d44-8276-d3cd097645ff" Title="AsyncActivator Methods" Url="html/d5167396-f071-c077-580a-2c24b6d36803.htm">
+          <HelpTOCNode Id="aef3443a-5202-4e9c-8587-7d737eb1183d" Title="CreateAsync Method " Url="html/a384c895-1b53-3ee2-be46-cd18009a9b96.htm">
             <HelpTOCNode Title="CreateAsync(T) Method " Url="html/fb88659a-27b9-2cfb-47b0-a6e78121c406.htm" />
             <HelpTOCNode Title="CreateAsync(T) Method (CancellationToken)" Url="html/989cb0ed-39c7-6263-cba6-c68d88f4313b.htm" />
             <HelpTOCNode Title="CreateAsync(T, TArg) Method (TArg)" Url="html/20c55743-6add-ffe6-5985-d1216da108fd.htm" />
@@ -26,241 +26,241 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b017b1fb-cbff-41b5-9cb5-62d5ae55545f" Title="AsyncInitBase(T) Class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm">
+      <HelpTOCNode Id="b7db4ab2-3cbb-4018-b08c-919b7c48a34c" Title="AsyncInitBase(T) Class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm">
         <HelpTOCNode Title="AsyncInitBase(T) Constructor " Url="html/ae1d53cb-c6a4-451e-2054-bafe030f19e1.htm" />
-        <HelpTOCNode Id="e04d0645-e1df-4d3d-8d35-a02592d35c64" Title="AsyncInitBase(T) Methods" Url="html/9d9a0865-b2a9-846c-cf86-869ae2a9a77c.htm">
+        <HelpTOCNode Id="b6afcfae-ab7a-406d-ac86-c8bc0ce38704" Title="AsyncInitBase(T) Methods" Url="html/9d9a0865-b2a9-846c-cf86-869ae2a9a77c.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/4a400fa3-4ffe-d5f4-1620-78e50e5c96d3.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/bc44e038-9598-8967-54b1-cb78710f281d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="93dae30b-c27c-40a8-9872-19f2b40f2e7d" Title="AsyncInitBase(T, TArg) Class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm">
+      <HelpTOCNode Id="08c23c15-7a42-457a-9059-28a6fe39bcdc" Title="AsyncInitBase(T, TArg) Class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg) Constructor " Url="html/550d043c-7eaf-885d-d749-e0012c78be4a.htm" />
-        <HelpTOCNode Id="581af6d9-041a-4475-8821-59082ce8a194" Title="AsyncInitBase(T, TArg) Methods" Url="html/b4e7b0ae-703a-0d48-a6a9-454f49c9c561.htm">
+        <HelpTOCNode Id="305db76e-d066-46cd-93cf-ece34a0202c5" Title="AsyncInitBase(T, TArg) Methods" Url="html/b4e7b0ae-703a-0d48-a6a9-454f49c9c561.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/91820cfb-2088-c5bd-3c31-5bfaade48326.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/4aff3e81-499e-f8ae-4310-2771806518e0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d9380b05-0fae-4f27-bc59-96b5b0c8a1e0" Title="AsyncInitBase(T, TArg1, TArg2) Class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm">
+      <HelpTOCNode Id="c2afcc72-5132-469e-aca2-8133e2b9e82c" Title="AsyncInitBase(T, TArg1, TArg2) Class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2) Constructor " Url="html/843463b3-db88-9988-4a25-f85848f8a870.htm" />
-        <HelpTOCNode Id="fcbe2166-eb60-4044-8cf6-d7ebe69e7fb1" Title="AsyncInitBase(T, TArg1, TArg2) Methods" Url="html/94f3c3bc-bcf8-195c-b39a-b22671ed9cb6.htm">
+        <HelpTOCNode Id="f8bfe1fa-cf64-4b5c-bffb-2f19682d5a66" Title="AsyncInitBase(T, TArg1, TArg2) Methods" Url="html/94f3c3bc-bcf8-195c-b39a-b22671ed9cb6.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/76ea8397-fab4-85a7-ef79-86edb5d8853a.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/f24dda3c-8ea1-9c17-0077-206a78fb3447.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9ec32cc5-98c2-4c03-92f3-978913327d10" Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm">
+      <HelpTOCNode Id="c7629252-8433-466d-949f-44bc6bb99edc" Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Constructor " Url="html/2791a1ed-598e-6009-c98b-904a17caba4b.htm" />
-        <HelpTOCNode Id="9634b892-7812-4db6-b42d-325c945f32ea" Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Methods" Url="html/a5f84114-9b9b-682e-0cb0-257688c024b9.htm">
+        <HelpTOCNode Id="00fe78ee-eeec-44cd-afcc-8b87786683bb" Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Methods" Url="html/a5f84114-9b9b-682e-0cb0-257688c024b9.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/0c04e011-3f23-f2af-a08b-742fefa14b0b.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/05534f42-05de-ec67-16f9-b67430e9f9e8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="36d8b1bd-b069-49db-a211-c4b1207cdb79" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm">
+      <HelpTOCNode Id="096724e1-f35b-4023-b10f-0ebb2bcc453f" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Constructor " Url="html/4b114932-d33e-8762-96cb-2cac703239cf.htm" />
-        <HelpTOCNode Id="a111194f-8744-464f-9a79-55ad1a6f48e9" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Methods" Url="html/9bcbdd53-b624-9cd3-7e40-42bc73a629f1.htm">
+        <HelpTOCNode Id="1b825cc8-5571-4ad8-8038-8589c58cd071" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Methods" Url="html/9bcbdd53-b624-9cd3-7e40-42bc73a629f1.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/89675ae9-89a3-6660-0ee6-1fccd793c629.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/8e1f3dd1-1d48-f92c-9f21-1c21179eb2b0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="78e08e38-122d-4ad3-9b14-e3e140074aeb" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm">
+      <HelpTOCNode Id="0ced0642-55cf-43c3-b1a8-4562e49ef59f" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Constructor " Url="html/07e2a8bd-1fab-2a18-2992-9cd7a8f34557.htm" />
-        <HelpTOCNode Id="63e535db-2df9-445f-8c4b-7a3d49709f04" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/0ddaa9dc-5ebc-240b-5d97-b2f46dc6873a.htm">
+        <HelpTOCNode Id="c091b9fe-f163-4555-9f2c-6af20e0a3c15" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/0ddaa9dc-5ebc-240b-5d97-b2f46dc6873a.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/4b1c30a9-33eb-7983-5766-5ef2393e69a9.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/09ee0272-1562-84cc-f55a-0528faba39e9.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2ec08433-82a3-411a-8c2a-eb9639d9bcbd" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm">
+      <HelpTOCNode Id="060fdb98-4e1b-4293-a6e9-f604947aac91" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Constructor " Url="html/e309d378-2221-2185-9401-a56a33a6fb42.htm" />
-        <HelpTOCNode Id="495ceeac-adb0-4723-9b7b-0593a1dd5f78" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/58a1c19e-b865-b433-e716-579c27161654.htm">
+        <HelpTOCNode Id="ad3e0fd5-5c0c-4a8b-b14a-d05f0d0342ad" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/58a1c19e-b865-b433-e716-579c27161654.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/4ec740fb-e235-6fa7-f7ae-1285e6648924.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/c35f0b1d-c0eb-87c5-f519-b3c31f768b2f.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c4f7527c-8f3d-46c7-afc1-bea4a2315f75" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm">
+      <HelpTOCNode Id="31b90470-5f54-49b7-ab89-6d408e275424" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm">
         <HelpTOCNode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Constructor " Url="html/7002db57-a8fe-b825-702e-fa94b4f338da.htm" />
-        <HelpTOCNode Id="046880b2-b8b8-4aac-82d7-75d8e70751a0" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/d1e9fd4f-72c0-f60e-2187-8af4bcfafdcc.htm">
+        <HelpTOCNode Id="98dc924e-1401-4c09-9e7d-d0f78d48b731" Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/d1e9fd4f-72c0-f60e-2187-8af4bcfafdcc.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/93eb76c3-a8d7-ed24-778a-738b8bef64b6.htm" />
           <HelpTOCNode Title="InitAsync Method " Url="html/cf853feb-ca5d-1884-b96e-d39d39f00ea6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="99ca984e-c159-478a-898f-0e6fedd240be" Title="CancelableAsyncInitBase(T) Class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm">
+      <HelpTOCNode Id="f9f4ef52-5d03-4acb-bd3a-a3319bd615c1" Title="CancelableAsyncInitBase(T) Class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T) Constructor " Url="html/e08a03d1-8323-0a89-a5c4-510a016cb49f.htm" />
-        <HelpTOCNode Id="eb77ba8e-b4c7-4934-b76d-8343b1095e5d" Title="CancelableAsyncInitBase(T) Methods" Url="html/bebe3378-16d6-3b3c-6acd-7022fdacbbc2.htm">
+        <HelpTOCNode Id="d0add488-d0a9-4bcd-89ad-976b8de7765d" Title="CancelableAsyncInitBase(T) Methods" Url="html/bebe3378-16d6-3b3c-6acd-7022fdacbbc2.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/217ce55c-66e5-591d-b9aa-4199eb5c4f97.htm" />
-          <HelpTOCNode Id="a1069492-881b-4bbf-9c93-cac359454368" Title="InitAsync Method " Url="html/54bfa5dd-9424-cca4-d54b-d0690b7d62ab.htm">
+          <HelpTOCNode Id="45d8cc57-1529-4d47-a453-9848dd75eb12" Title="InitAsync Method " Url="html/54bfa5dd-9424-cca4-d54b-d0690b7d62ab.htm">
             <HelpTOCNode Title="InitAsync Method " Url="html/d7aa7dcf-8d82-4eb1-b35a-68e21ed50713.htm" />
             <HelpTOCNode Title="InitAsync Method (CancellationToken)" Url="html/05e3dde7-fff1-b5cf-b905-ede442e0926c.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="75750934-4f1f-474f-98b6-0ee48b3eff58" Title="CancelableAsyncInitBase(T, TArg) Class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm">
+      <HelpTOCNode Id="ef08b217-18ba-4b7d-a1a8-2547f48c8510" Title="CancelableAsyncInitBase(T, TArg) Class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg) Constructor " Url="html/d9a6c086-e415-7980-f80d-48f2b0c71841.htm" />
-        <HelpTOCNode Id="f0293152-5944-45b6-8cd0-4f964c2d1c0d" Title="CancelableAsyncInitBase(T, TArg) Methods" Url="html/7dd52f5a-5e92-bcb4-558c-5d7c92b24a6b.htm">
+        <HelpTOCNode Id="c597fa0e-3414-4de9-8fe6-308ef224b963" Title="CancelableAsyncInitBase(T, TArg) Methods" Url="html/7dd52f5a-5e92-bcb4-558c-5d7c92b24a6b.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/51cf47ce-0664-6d6a-d3eb-b023b873146d.htm" />
-          <HelpTOCNode Id="1d1e1edd-ad39-45f9-8ba4-391cb8fdd2e0" Title="InitAsync Method " Url="html/e692c3b5-ce2d-0ef2-67ac-49b891795e3c.htm">
+          <HelpTOCNode Id="5a8c24b7-61e1-4631-b38c-4eb70abbbc1b" Title="InitAsync Method " Url="html/e692c3b5-ce2d-0ef2-67ac-49b891795e3c.htm">
             <HelpTOCNode Title="InitAsync Method (TArg)" Url="html/6f35a1c3-d6fb-75f0-749b-612da24d70c5.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg, CancellationToken)" Url="html/b4d15e36-00db-d5fd-7bff-f910da75666d.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ad14e291-2a36-491c-8eb5-b8cca1f3dd3d" Title="CancelableAsyncInitBase(T, TArg1, TArg2) Class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm">
+      <HelpTOCNode Id="52242088-7c87-4038-8bd1-b2d13965f1c0" Title="CancelableAsyncInitBase(T, TArg1, TArg2) Class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2) Constructor " Url="html/1c48d27a-ec73-6df5-5aae-22b9381bd38c.htm" />
-        <HelpTOCNode Id="c555efdb-3d33-4ff1-b4de-a91f7e5fcc0e" Title="CancelableAsyncInitBase(T, TArg1, TArg2) Methods" Url="html/15c5d9e4-483f-8969-d57b-e2b608e85c04.htm">
+        <HelpTOCNode Id="addca9c7-8bfc-41f0-b2db-3ef51a65fb29" Title="CancelableAsyncInitBase(T, TArg1, TArg2) Methods" Url="html/15c5d9e4-483f-8969-d57b-e2b608e85c04.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/e7520a80-ade0-46c2-2d23-caba139f3120.htm" />
-          <HelpTOCNode Id="3fe63a5c-09bf-4fc6-bccb-f099e9c9a143" Title="InitAsync Method " Url="html/c1d2a3fc-c070-cb51-b070-7a202a86b058.htm">
+          <HelpTOCNode Id="4dc60287-5200-42a8-9fd9-ad15d8c75982" Title="InitAsync Method " Url="html/c1d2a3fc-c070-cb51-b070-7a202a86b058.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2)" Url="html/812136cc-4060-cb24-ce93-a89585e8355c.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, CancellationToken)" Url="html/411827ae-2bd1-18b0-2bba-05f1f13514a5.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ef8d50d2-9c19-4bbf-9c3a-a5b9c359f1a4" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm">
+      <HelpTOCNode Id="3f6e5f93-76fd-4030-88cf-568f668d611d" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Constructor " Url="html/4da64a76-bf19-c796-0e3c-e8af404752af.htm" />
-        <HelpTOCNode Id="ab644176-d4c7-4236-8531-18259bec62ea" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Methods" Url="html/683543a8-259a-0536-6458-ecb12394146e.htm">
+        <HelpTOCNode Id="b59d53f5-7c0f-427b-b5d3-609fd95642ee" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Methods" Url="html/683543a8-259a-0536-6458-ecb12394146e.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/bcf24995-0744-65f6-84cf-afa8b2e552d0.htm" />
-          <HelpTOCNode Id="ff2777b4-c8b8-4ff7-b85f-a89773b79c02" Title="InitAsync Method " Url="html/f09e832b-2ec8-d2fd-66ad-b274abe2af9d.htm">
+          <HelpTOCNode Id="8a9f9d5f-35ed-4803-af9d-8b6a73eeee48" Title="InitAsync Method " Url="html/f09e832b-2ec8-d2fd-66ad-b274abe2af9d.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3)" Url="html/cd6099d4-c75d-dabf-6ebe-3a14c6140bc2.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, CancellationToken)" Url="html/8875346d-ee60-50d8-7db4-a526575917a8.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="032fd7ac-8236-472f-b967-c2aabd90fdb0" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm">
+      <HelpTOCNode Id="c1797f0e-bcfd-4d61-a0fe-c6eb3a5e5786" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Constructor " Url="html/7e3cf67d-c370-63b9-c1b8-80b0d4de1e47.htm" />
-        <HelpTOCNode Id="c76a732f-1833-4c5d-8054-dc0b80ba75be" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Methods" Url="html/4943ad0f-f7a5-43cd-962b-f4ca4971e105.htm">
+        <HelpTOCNode Id="662ee05d-4f15-4cb3-abad-26e3b6c675f1" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Methods" Url="html/4943ad0f-f7a5-43cd-962b-f4ca4971e105.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/83370045-a3e2-2b72-55b3-4ae8aa6dff92.htm" />
-          <HelpTOCNode Id="68f582af-385b-4e5f-ad1a-5bcb7d684e36" Title="InitAsync Method " Url="html/5e485b42-2bc0-2cbd-43f3-3030dda16319.htm">
+          <HelpTOCNode Id="85ab7125-2794-4f47-bffe-af216556dc41" Title="InitAsync Method " Url="html/5e485b42-2bc0-2cbd-43f3-3030dda16319.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4)" Url="html/fd2f6737-fd52-00e9-3cba-62e09b3ee8d1.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, CancellationToken)" Url="html/6c713629-4a6d-d349-6a83-6ac3419ea8d4.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d64b06be-a996-48d3-bae6-d083e5b73561" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm">
+      <HelpTOCNode Id="a1cf972d-536c-482a-bf99-c7d71ad7f952" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Constructor " Url="html/7e95a1b4-3804-4dae-0ceb-aa891b476cb2.htm" />
-        <HelpTOCNode Id="61ab185d-e798-4a1c-82d3-935943917512" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/a04ceea4-af9f-4fdc-ed08-db9927a27339.htm">
+        <HelpTOCNode Id="71584278-8b6d-439e-a360-9ec29e168462" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/a04ceea4-af9f-4fdc-ed08-db9927a27339.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/4781ef1e-fb5f-a107-7ebf-7e21ead7f48d.htm" />
-          <HelpTOCNode Id="5013cca7-bba8-45a4-9228-5176d3669e90" Title="InitAsync Method " Url="html/a4b57b2f-b6da-6c0a-1682-0d4ff687ddc9.htm">
+          <HelpTOCNode Id="32604198-93e9-458e-b5de-d7c43c702269" Title="InitAsync Method " Url="html/a4b57b2f-b6da-6c0a-1682-0d4ff687ddc9.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5)" Url="html/0cea5a6d-2247-06d5-5a9b-5917e9063ca3.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5, CancellationToken)" Url="html/580abe07-d358-debf-514d-a8f3c55cdb46.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5980b6d8-10e7-441f-9aa6-cba52a27ad67" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm">
+      <HelpTOCNode Id="8d4f9635-25ff-4e3c-a2b8-27cca114970b" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Constructor " Url="html/838cbab4-f41c-653e-4a05-26edba1401b8.htm" />
-        <HelpTOCNode Id="0d0097eb-b7f4-41a9-9b6d-9f2d0684ba48" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/a6f4ec9b-22be-54d1-66c3-0fb10c5f4ddd.htm">
+        <HelpTOCNode Id="a313bc64-9e32-4905-9dbb-e6e97c8560d5" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/a6f4ec9b-22be-54d1-66c3-0fb10c5f4ddd.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/b2bc1531-c60e-f334-8db2-026ccb2a4a7c.htm" />
-          <HelpTOCNode Id="44efca4e-e613-40d4-9af1-6bd7c6aa15cc" Title="InitAsync Method " Url="html/98205a6f-917b-7ce8-ddbe-6e53313a0a66.htm">
+          <HelpTOCNode Id="1f1328b2-319f-4b7e-b276-443d233addce" Title="InitAsync Method " Url="html/98205a6f-917b-7ce8-ddbe-6e53313a0a66.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6)" Url="html/193b79d3-babc-b827-ec4a-6c58b3ff57e3.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, CancellationToken)" Url="html/cea99444-c853-7ba6-7e4b-111867ffc863.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f2de95ab-5cf9-41ff-8d0f-06ed16774723" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm">
+      <HelpTOCNode Id="a209d592-8577-4d89-a5cb-d40d6f88b996" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm">
         <HelpTOCNode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Constructor " Url="html/46911a4d-4f06-e334-0796-d507de47f4a1.htm" />
-        <HelpTOCNode Id="feba9f50-cfac-4075-953e-5896393d05c3" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/724924fd-73c6-3cd5-54d1-7d31651759c8.htm">
+        <HelpTOCNode Id="76a057cd-fb55-44da-9a99-d5e27ac631e6" Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/724924fd-73c6-3cd5-54d1-7d31651759c8.htm">
           <HelpTOCNode Title="CreateAsync Method " Url="html/27c6953f-d984-56dd-9782-754da6e05a64.htm" />
-          <HelpTOCNode Id="4630a09f-2da4-45a4-874c-462687359093" Title="InitAsync Method " Url="html/a49e1ea1-69f9-9cfe-c4a5-6b64412433cb.htm">
+          <HelpTOCNode Id="40d04851-90b8-47fe-9a76-8d39f555e378" Title="InitAsync Method " Url="html/a49e1ea1-69f9-9cfe-c4a5-6b64412433cb.htm">
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7)" Url="html/32fd5d9a-ba3f-cd0e-b819-598e134c50a0.htm" />
             <HelpTOCNode Title="InitAsync Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7, CancellationToken)" Url="html/b44e8063-67b7-73c2-93db-1f3e65da6678.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2e157b39-ef0e-44e8-9c36-deeee2219991" Title="IAsyncInit Interface" Url="html/d69ea393-0d7d-498f-303a-baf464e69971.htm">
-        <HelpTOCNode Id="e6e39641-bd96-4d26-a90d-42be115b2dea" Title="IAsyncInit Methods" Url="html/fe6f735b-7a87-9761-d84e-fcc9a7d316bf.htm">
+      <HelpTOCNode Id="c7a7062b-fe49-401c-813e-7a4e7b7c04dc" Title="IAsyncInit Interface" Url="html/d69ea393-0d7d-498f-303a-baf464e69971.htm">
+        <HelpTOCNode Id="a2027dd0-7492-481e-a520-64b407d19f08" Title="IAsyncInit Methods" Url="html/fe6f735b-7a87-9761-d84e-fcc9a7d316bf.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/18226c02-2410-ef44-78e0-54622a755017.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="09b5b714-79c8-4734-a19b-faaa8e38bf48" Title="IAsyncInit(TArg) Interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm">
-        <HelpTOCNode Id="e1e4fb89-a68f-4466-bf56-0c71b0f6545d" Title="IAsyncInit(TArg) Methods" Url="html/83c9a070-c01b-c601-e5fd-97dc2d8490b8.htm">
+      <HelpTOCNode Id="4d9c39bc-3f76-4202-a271-d709cf9628b7" Title="IAsyncInit(TArg) Interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm">
+        <HelpTOCNode Id="2811fd3a-e40b-42f2-9fb1-7557aa8fc30c" Title="IAsyncInit(TArg) Methods" Url="html/83c9a070-c01b-c601-e5fd-97dc2d8490b8.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/b71ee50a-591f-7fee-d381-970c35527f29.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7d3fdc10-9921-4bb2-b125-663d5286e62b" Title="IAsyncInit(TArg1, TArg2) Interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm">
-        <HelpTOCNode Id="5a550076-74b5-4fd8-bbe5-b91a9ca04a30" Title="IAsyncInit(TArg1, TArg2) Methods" Url="html/41431ef8-d1ab-dc09-d0ba-b94b58889b76.htm">
+      <HelpTOCNode Id="e0d60bb0-5267-43c9-9f2a-7f4da3981189" Title="IAsyncInit(TArg1, TArg2) Interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm">
+        <HelpTOCNode Id="09576c73-4d32-4643-93be-0a90a8769f1c" Title="IAsyncInit(TArg1, TArg2) Methods" Url="html/41431ef8-d1ab-dc09-d0ba-b94b58889b76.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/2c1dd45a-c9d9-0eda-6642-4136951ad510.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9f3f05b8-5709-4e9f-890b-a40a15919d07" Title="IAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm">
-        <HelpTOCNode Id="5bcf4d37-73a9-4ecf-ad01-80883381c9b8" Title="IAsyncInit(TArg1, TArg2, TArg3) Methods" Url="html/9f871c9b-3c92-c166-46bc-df9787b4e0ed.htm">
+      <HelpTOCNode Id="8ac6803b-09dd-42be-a824-05d02907f410" Title="IAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm">
+        <HelpTOCNode Id="4802c943-98f9-4039-b3e0-4a97ff1036a5" Title="IAsyncInit(TArg1, TArg2, TArg3) Methods" Url="html/9f871c9b-3c92-c166-46bc-df9787b4e0ed.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/f8e54dfb-84ed-a0a8-f429-3e21918be252.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f332b014-2955-43e5-ad5f-21182a8e2e16" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm">
-        <HelpTOCNode Id="cd7b3f0b-29f3-4243-b432-7c5217bf29f5" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Methods" Url="html/936f7cff-f9bd-60d1-9c9d-5428635c4dae.htm">
+      <HelpTOCNode Id="43ebf759-662c-47bf-9211-b401f35fb57f" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm">
+        <HelpTOCNode Id="d446bc1f-987e-420e-ba48-04e308dad227" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Methods" Url="html/936f7cff-f9bd-60d1-9c9d-5428635c4dae.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/b00c4a10-438f-952f-81c6-5ec52659b2d3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f5bb2cc2-acef-4fe0-ba02-df8faba531f0" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm">
-        <HelpTOCNode Id="de6068a2-6515-454e-9cb1-34cb32cae7e2" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/21dfa496-fd7c-dba2-f695-71ca3dcc0ee4.htm">
+      <HelpTOCNode Id="8f6a2263-355d-4403-8beb-1361a7c3bf22" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm">
+        <HelpTOCNode Id="d909b781-8b27-48a1-b113-a0d6025a98b7" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/21dfa496-fd7c-dba2-f695-71ca3dcc0ee4.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/b9d7b2e0-74ef-a6c3-87bf-518e97087aaa.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="487ca393-14d9-4d43-b803-966672faf35d" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm">
-        <HelpTOCNode Id="1380dcf0-18c1-4b44-aae7-d86456275818" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/babd19dd-4782-0200-4a5e-3e49102951cf.htm">
+      <HelpTOCNode Id="52c39d90-e070-453d-9931-a00545d8fcc7" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm">
+        <HelpTOCNode Id="dfda93bd-83a0-4140-b53f-6f3a878ffeee" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/babd19dd-4782-0200-4a5e-3e49102951cf.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/d8a237c9-eb12-e6d5-43c3-38e15560cd7c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="eef7bd4a-3cd6-454f-adfe-659ccf6ebea4" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm">
-        <HelpTOCNode Id="d3b82484-ddbf-4ed6-aa02-e9705d163158" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/9178ad36-fee2-5ed7-3619-dd604754cbbe.htm">
+      <HelpTOCNode Id="f0c2b380-5a44-48b2-96d6-6817dcc98879" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm">
+        <HelpTOCNode Id="de812eca-1604-4adf-a4d6-34aa9b844d03" Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/9178ad36-fee2-5ed7-3619-dd604754cbbe.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/eee0a9d9-e498-1e41-4557-cf5ec785e468.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3be38774-6fd2-4be9-b179-03ba375b7126" Title="ICancelableAsyncInit Interface" Url="html/f7980fe9-6641-3912-a948-da1b5b10d3e5.htm">
-        <HelpTOCNode Id="8ca459ac-eeab-46ea-a65b-1e0f84a6e089" Title="ICancelableAsyncInit Methods" Url="html/0324c1fd-fa76-596e-f150-01e53338059d.htm">
+      <HelpTOCNode Id="0d597fc6-5e3a-41cd-9f67-6e9bd5b5486f" Title="ICancelableAsyncInit Interface" Url="html/f7980fe9-6641-3912-a948-da1b5b10d3e5.htm">
+        <HelpTOCNode Id="4f24b442-4047-4781-89b6-b83e74bcfff9" Title="ICancelableAsyncInit Methods" Url="html/0324c1fd-fa76-596e-f150-01e53338059d.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/d92aba07-7551-4ea8-85f4-c84699bf9afb.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="022bdb69-a259-4ef5-bde6-a3286c16dc27" Title="ICancelableAsyncInit(TArg) Interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm">
-        <HelpTOCNode Id="c9427cb3-3271-4c92-871b-3e396b5e99f0" Title="ICancelableAsyncInit(TArg) Methods" Url="html/6a85e16e-3b01-1c62-977a-f48226f6c176.htm">
+      <HelpTOCNode Id="32960b8f-3655-46b1-a717-c11faad0018f" Title="ICancelableAsyncInit(TArg) Interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm">
+        <HelpTOCNode Id="112d7792-bd4e-4d1f-bbcd-5df8dc58ca05" Title="ICancelableAsyncInit(TArg) Methods" Url="html/6a85e16e-3b01-1c62-977a-f48226f6c176.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/552af297-780e-2eb0-fc9d-9bad9f476482.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3f330f79-585e-4811-90bb-c28e01fcfb78" Title="ICancelableAsyncInit(TArg1, TArg2) Interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm">
-        <HelpTOCNode Id="65c3d04a-f1ab-4245-a3fe-56d610c91e15" Title="ICancelableAsyncInit(TArg1, TArg2) Methods" Url="html/be2f3640-a3d3-cfe2-a70b-4579ace3ffe9.htm">
+      <HelpTOCNode Id="d0843fc5-1baf-4094-b006-83d9d83a1235" Title="ICancelableAsyncInit(TArg1, TArg2) Interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm">
+        <HelpTOCNode Id="10fc4daa-92dc-453c-803e-1cddcb2d4d06" Title="ICancelableAsyncInit(TArg1, TArg2) Methods" Url="html/be2f3640-a3d3-cfe2-a70b-4579ace3ffe9.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/60352a2d-63f4-e27e-5b08-d1bf8ef185d7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a7ccc33e-3a6c-48bd-89ed-89b27425ac87" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm">
-        <HelpTOCNode Id="d794520b-255f-45aa-97b7-f261db4c5f48" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Methods" Url="html/f0b13da1-5f39-706f-283a-72f7f34c5519.htm">
+      <HelpTOCNode Id="598b6071-7991-442f-97d3-88a117eb904b" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm">
+        <HelpTOCNode Id="25ffde1d-4a6e-4b9e-b5af-b7d4b4da90d8" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Methods" Url="html/f0b13da1-5f39-706f-283a-72f7f34c5519.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/0c437256-c715-7e98-1fd6-ba163da30a2e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f4233843-0946-4ba9-a60c-cd037874d2d1" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm">
-        <HelpTOCNode Id="dd1cb852-4ad3-4577-97d7-08394ceb399a" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Methods" Url="html/2574ea34-9369-7198-53cb-8ebe44102f3c.htm">
+      <HelpTOCNode Id="77f805df-f44f-47c7-8bb9-26b7e9184eab" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm">
+        <HelpTOCNode Id="05dc35f2-524d-494d-9af8-cba019da10ed" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Methods" Url="html/2574ea34-9369-7198-53cb-8ebe44102f3c.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/3bfb612f-07d0-a068-f44d-d739090f3db8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="10e97369-f4b1-420e-951f-7b88b4fcae6b" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm">
-        <HelpTOCNode Id="bee1c3d2-2477-47e6-9bda-40b8a0159ad9" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/cc87eb46-881a-9c76-c3c3-32a7529d81be.htm">
+      <HelpTOCNode Id="9005e583-ec25-4bc6-ac44-154b7388961e" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm">
+        <HelpTOCNode Id="69a9b10e-b329-40ff-8ec6-ccb42febdf76" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Methods" Url="html/cc87eb46-881a-9c76-c3c3-32a7529d81be.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/77a6b373-fd4b-0943-3c74-f155951a7aff.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f5f27357-b09f-4384-a6fa-21f6cbd4cdbc" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm">
-        <HelpTOCNode Id="355c3738-82dc-4da5-b1c4-f9dd2a18a4cb" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/e42f6846-d23f-74f3-037a-a2e1e03c173c.htm">
+      <HelpTOCNode Id="75ab2d62-8d74-40bd-8d21-3604d69e4385" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm">
+        <HelpTOCNode Id="3db8d783-020c-4951-95e7-7b20a304d6db" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Methods" Url="html/e42f6846-d23f-74f3-037a-a2e1e03c173c.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/da37c4ac-15b4-e7a2-6c03-3d35cca9d8ba.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="64795433-b1d0-443e-82a4-2e6f935bf889" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm">
-        <HelpTOCNode Id="95803f9e-522f-4be3-b595-8de325f34d9d" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/74130afa-6e7a-ca3a-ca3e-9ef0531bf6be.htm">
+      <HelpTOCNode Id="71f11dc7-7d22-41ec-939c-42097c49d215" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm">
+        <HelpTOCNode Id="98f1ac33-e3c6-49e8-a939-966ccb84395b" Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Methods" Url="html/74130afa-6e7a-ca3a-ca3e-9ef0531bf6be.htm">
           <HelpTOCNode Title="InitAsync Method " Url="html/96be189f-5487-f285-add7-60d341a5cc81.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="04d5fdf5-9846-47e9-bc5d-70a0495847f5" Title="Ditto.AsyncInit.Internal" Url="html/3111eb57-ba56-653d-41d6-59b377e5e9f7.htm">
-      <HelpTOCNode Id="734d716c-3cc5-4e27-9546-129b05e4674b" Title="Utilities Class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm">
-        <HelpTOCNode Id="40225a25-f4aa-4ea9-874b-cf5dfaefb071" Title="Utilities Methods" Url="html/67a2a56c-d202-e960-c0fd-0d2dc650afad.htm">
+    <HelpTOCNode Id="720f8438-bbcb-4b0e-8809-61bca1e974ba" Title="Ditto.AsyncInit.Internal" Url="html/3111eb57-ba56-653d-41d6-59b377e5e9f7.htm">
+      <HelpTOCNode Id="bc2e679a-d723-4ca9-88c4-25344a2304b1" Title="Utilities Class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm">
+        <HelpTOCNode Id="d11de875-5021-4953-926c-4fe528283e27" Title="Utilities Methods" Url="html/67a2a56c-d202-e960-c0fd-0d2dc650afad.htm">
           <HelpTOCNode Title="CreateInstance(T) Method " Url="html/75a9d648-6d13-47f1-557a-64c15aab362d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="adca914c-53ea-4b25-8d24-07311561b5e0" Title="How Tos" Url="html/c0f9e874-dd33-473b-a245-85fc69447a4b.htm">
+  <HelpTOCNode Id="bb9acc4a-2929-4268-a670-efaaf17f2b10" Title="How Tos" Url="html/c0f9e874-dd33-473b-a245-85fc69447a4b.htm">
     <HelpTOCNode Title="Installation" Url="html/2ac5864f-d7ba-4ef7-a487-77ecfc2aab3a.htm" />
     <HelpTOCNode Title="Deriving" Url="html/edeb370d-6d7e-4f82-adab-f2326d89c857.htm" />
     <HelpTOCNode Title="Implementing" Url="html/c731bb1a-010a-40c6-856b-421ebbd05a26.htm" />
     <HelpTOCNode Title="Silverlight" Url="html/f175305f-89a6-498e-add6-e803be90433e.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="11f3b95e-a786-4619-a2dc-7d43c8bf9047" Title="Miscellanea" Url="html/e4e8dc54-685e-481b-bdec-c19ffb971294.htm">
+  <HelpTOCNode Id="4b2ded18-5c37-49ee-9f68-1eb1c91d638a" Title="Miscellanea" Url="html/e4e8dc54-685e-481b-bdec-c19ffb971294.htm">
     <HelpTOCNode Title="NAG Constructor" Url="html/ff3a9984-a817-400e-be0d-6231ad026f50.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="4d4ad109-7ded-43ba-96d7-7a1b90467a33" Title="Version History" Url="html/402b5184-91d1-4bc0-a959-97514187d9f4.htm">
+  <HelpTOCNode Id="11eae267-03ad-4dc5-9229-1551f30fe12a" Title="Version History" Url="html/402b5184-91d1-4bc0-a959-97514187d9f4.htm">
     <HelpTOCNode Title="Version 1.4.3" Url="html/b73c7145-e794-4e09-aba6-e0377c945b69.htm" />
     <HelpTOCNode Title="Version 1.4.2" Url="html/3899d6a1-b947-42bb-8730-47ee00d66654.htm" />
     <HelpTOCNode Title="Version 1.4.1" Url="html/4b1aeb26-3c84-4311-97d4-debfa1862a10.htm" />
