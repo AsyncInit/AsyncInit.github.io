@@ -6,11 +6,11 @@
   <HelpKINode Title="Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions class" Url="html/46f395ba-f9ae-7898-b424-ae502374eb6a.htm" />
   <HelpKINode Title="howto">
     <HelpKINode Title="Unity Container Async Extensions How Tos" Url="html/8e58cf79-69c3-4993-bc6a-6209cb35cc0a.htm" />
-    <HelpKINode Title="installation,install" Url="html/b078ce3f-f7cc-41ee-a8fb-0dd91b1b7568.htm" />
-    <HelpKINode Title="querying,query" Url="html/6f316ae1-44bb-4773-975b-aac2f5a50c49.htm" />
-    <HelpKINode Title="registration,register,mapping" Url="html/773158a0-bea9-482f-b8ac-9670797b0da5.htm" />
-    <HelpKINode Title="registration,register,type" Url="html/30e16988-88d9-400d-bf76-21885513e5df.htm" />
-    <HelpKINode Title="resolution,resolve" Url="html/0432922d-9355-47b5-87f0-28feede0474d.htm" />
+    <HelpKINode Title="install" Url="html/b078ce3f-f7cc-41ee-a8fb-0dd91b1b7568.htm" />
+    <HelpKINode Title="query" Url="html/6f316ae1-44bb-4773-975b-aac2f5a50c49.htm" />
+    <HelpKINode Title="register mapping" Url="html/773158a0-bea9-482f-b8ac-9670797b0da5.htm" />
+    <HelpKINode Title="register type" Url="html/30e16988-88d9-400d-bf76-21885513e5df.htm" />
+    <HelpKINode Title="resolve" Url="html/0432922d-9355-47b5-87f0-28feede0474d.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAsyncTypeRegistered method" Url="html/a0cca9cf-1105-81a6-48dc-61d740f57e0b.htm" />
   <HelpKINode Title="license" Url="html/fb08e01a-e83f-43ed-8ff2-ca8ec3ba3fbe.htm" />
@@ -40,6 +40,7 @@
     <HelpKINode Title="Version 1.1.1" Url="html/47a5588e-268e-45d4-bd0a-828c3fa52ab8.htm" />
     <HelpKINode Title="Version 1.2.0" Url="html/2ac61916-0fdf-45bd-a3ff-be580ff7c9c6.htm" />
     <HelpKINode Title="Version 1.4.0" Url="html/5c80623b-72bd-4c67-9c95-7b327faaa5de.htm" />
+    <HelpKINode Title="Version 1.5.0" Url="html/1030daf9-d680-44c5-8a6f-f340d2d34f1d.htm" />
     <HelpKINode Title="history" Url="html/0caa88a8-58e0-444e-866c-2332ddb7b5d9.htm" />
   </HelpKINode>
   <HelpKINode Title="Welcome" Url="html/53f4a63d-6a7e-45d8-b0da-060bc7f17ced.htm" />
