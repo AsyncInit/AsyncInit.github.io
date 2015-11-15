@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Documentation.shfbproj" started="15/11/2015 04:15:41">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Documentation.shfbproj" started="15/11/2015 17:25:59">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -39,16 +39,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0156
+</plugIn>    Last step completed in 00:00:00.0050
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateRefInfo.proj]
-Build started 15/11/2015 04:15:42.
+Build started 15/11/2015 17:26:00.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -57,7 +57,7 @@ GenerateRefInfo:
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loaded 1 assemblies for reflection and 5 dependency assemblies.
-  Wrote information on 1 namespaces, 3 types, and 26 members
+  Wrote information on 1 namespaces, 1 types, and 26 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.10.10.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -67,13 +67,13 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:00.56
-    Last step completed in 00:00:00.6300
+Time Elapsed 00:00:00.51
+    Last step completed in 00:00:00.5890
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - TransformManifest.proj]
-Build started 15/11/2015 04:15:42.
+Build started 15/11/2015 17:26:00.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.10.10.0)
@@ -93,12 +93,12 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:00.40
-    Last step completed in 00:00:00.4680
+Time Elapsed 00:00:00.38
+    Last step completed in 00:00:00.4480
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0120
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -119,10 +119,14 @@ Generating conceptual topic files
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Mapping Registration.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\773158a0-bea9-482f-b8ac-9670797b0da5.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Resolution.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Resolution.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\0432922d-9355-47b5-87f0-28feede0474d.xml
-    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying.aml&#39;
-    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\6f316ae1-44bb-4773-975b-aac2f5a50c49.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying Unnamed.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying Unnamed.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\6f316ae1-44bb-4773-975b-aac2f5a50c49.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying Named.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\How Tos\Querying Named.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\d38428af-c141-4f56-9a1d-8732f6f9a621.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\VersionHistory.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\VersionHistory.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\0caa88a8-58e0-444e-866c-2332ddb7b5d9.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.6.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.6.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\68a94beb-6de7-4cce-81a5-a673324e82b6.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.5.0.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.5.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\1030daf9-d680-44c5-8a6f-f340d2d34f1d.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.4.0.aml&#39;
@@ -137,20 +141,20 @@ Generating conceptual topic files
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\Version 1.0.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\b48688e3-e650-4382-8f0d-76226f2eb89f.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\License.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Content\VersionHistory\License.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\ddueXml\fb08e01a-e83f-43ed-8ff2-ca8ec3ba3fbe.xml
-    Last step completed in 00:00:00.1560
+    Last step completed in 00:00:00.1650
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     ConceptualManifest.xml
-    Last step completed in 00:00:00.0312
+    Last step completed in 00:00:00.0300
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\icons\Help.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\HtmlHelp1\icons\Help.png
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\icons\Help.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\Website\icons\Help.png
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0120
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -159,7 +163,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 15/11/2015 04:15:43.
+Build started 15/11/2015 17:26:01.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.10.10.0)
@@ -172,25 +176,25 @@ Build succeeded.
 
 Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.1716
+    Last step completed in 00:00:00.1720
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
     conceptual.config
-    Last step completed in 00:00:00.1248
+    Last step completed in 00:00:00.1150
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\sandcastle.config
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\conceptual.config
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0170
 </buildStep>
 <buildStep step="BuildConceptualTopics">
 Building conceptual help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildConceptualTopics.proj]
-Build started 15/11/2015 04:15:43.
+Build started 15/11/2015 17:26:01.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
 BuildConceptualTopics:
   BuildAssembler (v2015.10.10.0)
@@ -198,19 +202,19 @@ BuildConceptualTopics:
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 15 topic(s)
+  Processed 17 topic(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
 Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildConceptualTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.62
-    Last step completed in 00:00:01.7014
+Time Elapsed 00:00:01.63
+    Last step completed in 00:00:01.6971
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 15/11/2015 04:15:45.
+Build started 15/11/2015 17:26:03.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.10.10.0)
@@ -218,31 +222,31 @@ BuildReferenceTopics:
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
-  Processed 37 topic(s)
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.RegisterAsyncType``2(Microsoft.Practices.Unity.IUnityContainer,System.String,Microsoft.Practices.Unity.LifetimeManager,Ditto.AsyncInit.Services.AsyncInitArgs)] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions.ResolveAsync``1(Microsoft.Practices.Unity.IUnityContainer,System.String,Ditto.AsyncInit.Services.AsyncInitArgs,System.Threading.CancellationToken,Microsoft.Practices.Unity.ResolverOverride[])] Unknown reference link target &#39;T:Ditto.AsyncInit.Services.AsyncInitArgs&#39;. [C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\BuildReferenceTopics.proj]
+  Processed 33 topic(s)
   24 warning(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 4 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
@@ -250,12 +254,12 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:03.90
-    Last step completed in 00:00:03.9478
+Time Elapsed 00:00:03.72
+    Last step completed in 00:00:03.7882
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0050
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -267,17 +271,17 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing Help 1 files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\HtmlHelp1
-Processed 52 HTML files
+Processed 50 HTML files
 Sorting keywords and generating See Also indices
 Saving HTML Help 1 keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\AsyncInit.Unity.hhk
 Saving HTML Help 1 table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\AsyncInit.Unity.hhc
 
 Processing website files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\Website
-Processed 52 HTML files
+Processed 50 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00.6708
+    Last step completed in 00:00:00.6380
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -418,7 +422,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.0608
+    Last step completed in 00:00:00.9471
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
@@ -426,11 +430,11 @@ Generating HTML Help 1 table of contents file...
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -447,11 +451,11 @@ Compiling HTML Help 1 file...
   
   Compile time: 0 minutes, 0 seconds
   
-  54	Topics
+  52	Topics
   
-  459	Local links
+  443	Local links
   
-  218	Internet links
+  212	Internet links
   
   0	Graphics
   
@@ -459,36 +463,36 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.Unity.chm, 141,494 bytes
+  Created c:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Unity\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.Unity.chm, 139,504 bytes
   
-  Compression decreased file by 478,725 bytes.
+  Compression decreased file by 461,476 bytes.
   
-    Last step completed in 00:00:00.7176
+    Last step completed in 00:00:00.6430
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:01.2012
+</plugIn>    Last step completed in 00:00:00.9291
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 170 files for the website content
-    Last step completed in 00:00:00.2964
+Copied 164 files for the website content
+    Last step completed in 00:00:00.2260
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.2496
+    Last step completed in 00:00:00.1970
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 15/11/2015 04:15:53.  Total time: 00:00:12.1760
+Build completed successfully at 15/11/2015 17:26:10.  Total time: 00:00:11.2526
 
 </buildStep>
 </shfbBuild>
