@@ -2,94 +2,94 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/65bb1336-f090-4770-b419-79bc13cde6dd.htm" />
-  <HelpTOCNode Id="44e7f5b6-3534-4783-b247-c33c1da11056" Title="Reference" Url="html/b03526e9-2d16-e6b4-e892-e5f9be197d2b.htm">
-    <HelpTOCNode Id="fe8f76c0-73b0-41d7-8bc6-3c8a8b110445" Title="Ditto.AsyncInit.Services" Url="html/85ea1024-8afd-a6da-4f65-95c8da747957.htm">
-      <HelpTOCNode Id="c5f21449-f10a-4d71-b22f-bc5261861b8f" Title="AsyncInitArgs Class" Url="html/3a8862a1-01bf-2c26-56d6-ff5f22d1e6a0.htm">
-        <HelpTOCNode Id="e271a8df-59e0-4fb8-8ef8-111a254a8e10" Title="AsyncInitArgs Properties" Url="html/3ba0f1c8-9913-5cc1-c47b-09ab2bc7f812.htm">
-          <HelpTOCNode Title="Arguments Property " Url="html/850636da-3e6f-f60c-56b1-a54739606d9b.htm" />
-          <HelpTOCNode Title="Count Property " Url="html/4369c622-a2f8-f304-d97d-17012f76b882.htm" />
-          <HelpTOCNode Title="Types Property " Url="html/304fd3f7-d552-9d73-e29c-8eeafb751cdd.htm" />
+  <HelpTOCNode Id="5d1b035e-bc30-4de8-91e8-792eac4ddac1" Title="Reference" Url="html/R_Project_AsyncInit_Services.htm">
+    <HelpTOCNode Id="22e272f4-f849-4c73-bc6e-645dd2d09a8b" Title="Ditto.AsyncInit.Services" Url="html/N_Ditto_AsyncInit_Services.htm">
+      <HelpTOCNode Id="c6677ed9-4e25-4a36-ba62-37f1d0b9501e" Title="AsyncInitArgs Class" Url="html/T_Ditto_AsyncInit_Services_AsyncInitArgs.htm">
+        <HelpTOCNode Id="5d6c0da6-6878-4a20-acc5-7bcb2c4f97ea" Title="AsyncInitArgs Properties" Url="html/Properties_T_Ditto_AsyncInit_Services_AsyncInitArgs.htm">
+          <HelpTOCNode Title="Arguments Property " Url="html/P_Ditto_AsyncInit_Services_AsyncInitArgs_Arguments.htm" />
+          <HelpTOCNode Title="Count Property " Url="html/P_Ditto_AsyncInit_Services_AsyncInitArgs_Count.htm" />
+          <HelpTOCNode Title="Types Property " Url="html/P_Ditto_AsyncInit_Services_AsyncInitArgs_Types.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3f45988c-00da-4e5d-bb8a-742ba8cf145e" Title="AsyncInitArgs Methods" Url="html/aa7035eb-e574-bc39-caf5-94acace83563.htm">
-          <HelpTOCNode Id="95a505a7-00b0-4675-b208-f9cb76c9ba64" Title="Create Method " Url="html/79aa863d-cc1b-4a28-6c00-c17991d083eb.htm">
-            <HelpTOCNode Title="Create(TArg) Method (TArg)" Url="html/f7800684-eac4-5c2a-f815-9a6a7a745cbf.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2) Method (TArg1, TArg2)" Url="html/db909baf-9e42-a3c9-11b4-37471c31c600.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3) Method (TArg1, TArg2, TArg3)" Url="html/34da9e9e-3339-5abd-d9bd-c99e1355a6bb.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4) Method (TArg1, TArg2, TArg3, TArg4)" Url="html/a1865504-6221-c418-e48d-d2e5ecdeb2f8.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5) Method (TArg1, TArg2, TArg3, TArg4, TArg5)" Url="html/6358e665-8e8c-2118-ca5b-6933d44781fd.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6)" Url="html/fcb5ec26-c7dc-f3eb-978e-0a8084ee5d47.htm" />
-            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7)" Url="html/27a1a672-cab9-5b14-bd9e-f89c34fd94dd.htm" />
+        <HelpTOCNode Id="7151b0f3-25eb-41c7-aaa5-741f302ee162" Title="AsyncInitArgs Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_AsyncInitArgs.htm">
+          <HelpTOCNode Id="724e22c9-f150-403b-951c-3aa1c7756d22" Title="Create Method " Url="html/Overload_Ditto_AsyncInit_Services_AsyncInitArgs_Create.htm">
+            <HelpTOCNode Title="Create(TArg) Method (TArg)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__1.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2) Method (TArg1, TArg2)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__2.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3) Method (TArg1, TArg2, TArg3)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__3.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4) Method (TArg1, TArg2, TArg3, TArg4)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__4.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5) Method (TArg1, TArg2, TArg3, TArg4, TArg5)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__5.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__6.htm" />
+            <HelpTOCNode Title="Create(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Method (TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitArgs_Create__7.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="d16dff16-0acb-4d49-93f6-3ed8d1517d30" Title="AsyncInitArgs Fields" Url="html/a8cdb924-c70f-f8b0-09cc-4a00ed234828.htm">
-          <HelpTOCNode Title="Empty Field" Url="html/f43d5073-59c3-5920-eab7-2df1cd41b386.htm" />
+        <HelpTOCNode Id="c970dbd7-812f-4206-a7a9-53b1b74a2501" Title="AsyncInitArgs Fields" Url="html/Fields_T_Ditto_AsyncInit_Services_AsyncInitArgs.htm">
+          <HelpTOCNode Title="Empty Field" Url="html/F_Ditto_AsyncInit_Services_AsyncInitArgs_Empty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b552fd47-4932-417b-bea0-ea5c048787e0" Title="AsyncInitializer(TFrom, TTo) Class" Url="html/ed80b9ad-ce63-e387-96bb-748e10b63f78.htm">
-        <HelpTOCNode Title="AsyncInitializer(TFrom, TTo) Constructor " Url="html/3d5fa24c-3e8a-27e0-bfb6-8f29ffd1f3d5.htm" />
-        <HelpTOCNode Id="4ac4c4f2-0728-4435-8e63-973571202b58" Title="AsyncInitializer(TFrom, TTo) Methods" Url="html/5929603c-c196-7381-8423-e73ce6bd0ef9.htm">
-          <HelpTOCNode Id="88a6fecd-af56-47c2-ac67-6121b42eae61" Title="AsTask Method " Url="html/19dcd94c-fe85-f499-ac15-84ece05d5117.htm">
-            <HelpTOCNode Title="AsTask Method " Url="html/ccf5519d-d9b2-b299-164a-e1a6d6656c12.htm" />
-            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/ddb6d31f-3d8b-7607-c7db-6f2091ae0a85.htm" />
+      <HelpTOCNode Id="0a610ddd-9c60-42b7-8b1a-a6a0add39802" Title="AsyncInitializer(TFrom, TTo) Class" Url="html/T_Ditto_AsyncInit_Services_AsyncInitializer_2.htm">
+        <HelpTOCNode Title="AsyncInitializer(TFrom, TTo) Constructor " Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2__ctor.htm" />
+        <HelpTOCNode Id="4b76136e-a490-402a-886a-11c3c108712f" Title="AsyncInitializer(TFrom, TTo) Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_AsyncInitializer_2.htm">
+          <HelpTOCNode Id="8c7451d7-031a-4d89-a22c-347338210d39" Title="AsTask Method " Url="html/Overload_Ditto_AsyncInit_Services_AsyncInitializer_2_AsTask.htm">
+            <HelpTOCNode Title="AsTask Method " Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_AsTask.htm" />
+            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_AsTask_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="28da1337-38e7-4486-ab37-393f792bb4c9" Title="CreateAsync Method " Url="html/e2dc70d3-0726-3b07-1174-2d97bcdb253a.htm">
-            <HelpTOCNode Title="CreateAsync Method (IEnumerable(Type), CancellationToken)" Url="html/ed716bf2-c9c9-0596-2e35-8f3f11a5f577.htm" />
-            <HelpTOCNode Title="CreateAsync Method (Type, CancellationToken)" Url="html/350d6c82-31da-4ed1-b300-2550d218ec30.htm" />
+          <HelpTOCNode Id="628fd122-fbc1-431c-a304-3939ac02b27f" Title="CreateAsync Method " Url="html/Overload_Ditto_AsyncInit_Services_AsyncInitializer_2_CreateAsync.htm">
+            <HelpTOCNode Title="CreateAsync Method (IEnumerable(Type), CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_CreateAsync.htm" />
+            <HelpTOCNode Title="CreateAsync Method (Type, CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_CreateAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Title="CreateInstance Method " Url="html/eb77b774-58c2-538f-1f9a-b1d19ade17dc.htm" />
-          <HelpTOCNode Title="GetContainerStrategy Method " Url="html/b5b5bf68-1ac4-a55d-bbd6-493d52a69c81.htm" />
+          <HelpTOCNode Title="CreateInstance Method " Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_CreateInstance.htm" />
+          <HelpTOCNode Title="GetContainerStrategy Method " Url="html/M_Ditto_AsyncInit_Services_AsyncInitializer_2_GetContainerStrategy.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="95f2b630-3957-47b5-a6f3-bf5d89689b59" Title="AsyncInitializer(TFrom, TTo) Fields" Url="html/0fa70233-c6a8-5ccb-7e91-20a5953e781e.htm">
-          <HelpTOCNode Title="Empty Field" Url="html/68e9d277-34a4-a5db-0cfc-4dd9dacd25bd.htm" />
+        <HelpTOCNode Id="80df5ae1-cdf6-4015-950f-3b0577455004" Title="AsyncInitializer(TFrom, TTo) Fields" Url="html/Fields_T_Ditto_AsyncInit_Services_AsyncInitializer_2.htm">
+          <HelpTOCNode Title="Empty Field" Url="html/F_Ditto_AsyncInit_Services_AsyncInitializer_2_Empty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="59b285c9-1a50-469f-aaf9-8b16d68b3e83" Title="AsyncInitializerException Class" Url="html/30f497c5-053e-d1a1-61ae-0df08eb692ad.htm">
-        <HelpTOCNode Title="AsyncInitializerException Properties" Url="html/2e058b3e-7565-e28b-1f9a-32746679eeb6.htm" />
-        <HelpTOCNode Title="AsyncInitializerException Methods" Url="html/e533032c-8047-2cc7-a73e-c32b8ea7a1d4.htm" />
+      <HelpTOCNode Id="a0abfd9b-7ed1-4832-9c38-d62e760ea789" Title="AsyncInitializerException Class" Url="html/T_Ditto_AsyncInit_Services_AsyncInitializerException.htm">
+        <HelpTOCNode Title="AsyncInitializerException Properties" Url="html/Properties_T_Ditto_AsyncInit_Services_AsyncInitializerException.htm" />
+        <HelpTOCNode Title="AsyncInitializerException Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_AsyncInitializerException.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e73f2bcb-0f97-46f8-9d1e-8a8c4610e15a" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Class" Url="html/91451208-d05e-5515-db78-d6703290af16.htm">
-        <HelpTOCNode Id="ad466e22-acc5-45bb-a6aa-85eaeb2c0213" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor " Url="html/6f10778e-0e6b-fb99-9a6b-daa8718aed6b.htm">
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor " Url="html/e2437f23-c1e3-b8a1-b89a-26d2836ed108.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object)" Url="html/f9ed9cf2-26dc-37e3-24d5-aa3f5776276d.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (AsyncInitArgs)" Url="html/322bfecb-1e2a-6ad4-6d3d-405eee5ed5c1.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object)" Url="html/11916d1f-63a6-411b-9aad-a2c577e3e2b0.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object)" Url="html/259f1a06-2d63-a9c2-8a7e-f9137b50d209.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object)" Url="html/8f6e1eb6-5fa3-8163-b4e5-b535a8d6090f.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object)" Url="html/b65b9f1f-faa3-b528-c592-513a48088bfd.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object, Object)" Url="html/6547ef2d-89a5-7f2c-97a1-28450b8015f5.htm" />
-          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object, Object, Object)" Url="html/2125d713-c04d-93f7-e3d3-f0270646c854.htm" />
+      <HelpTOCNode Id="41e8f163-1c47-42c6-b8e1-68e90f55f250" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Class" Url="html/T_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3.htm">
+        <HelpTOCNode Id="398d8de9-3fa4-43a8-8e67-3bc0d60a9ccf" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor " Url="html/Overload_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor.htm">
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor " Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_2.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_1.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_3.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_4.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_5.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_6.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_7.htm" />
+          <HelpTOCNode Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Constructor (Object, Object, Object, Object, Object, Object, Object)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3__ctor_8.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="215308a0-324b-45eb-99a0-dd370dfacdd2" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Properties" Url="html/46ff8da0-1043-fe93-2623-38390c6c49f3.htm">
-          <HelpTOCNode Title="ContainerStrategy Property " Url="html/0573f875-f4e8-a783-f196-ce50eaec49bf.htm" />
+        <HelpTOCNode Id="cc6f30a6-e612-4042-8555-569e6fe66ec9" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Properties" Url="html/Properties_T_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3.htm">
+          <HelpTOCNode Title="ContainerStrategy Property " Url="html/P_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_ContainerStrategy.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a6d1c6a8-8bc2-4a4b-937c-042f18328036" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Methods" Url="html/87d9550f-b9c3-f529-64b9-8229da2f4dac.htm">
-          <HelpTOCNode Id="decb97d6-c547-468a-aae2-e37c20aa595e" Title="AsTask Method " Url="html/14a9560f-034a-551c-a3e4-78d2049fd009.htm">
-            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/682ae332-d870-5032-1c0a-e750ffdcaa8b.htm" />
+        <HelpTOCNode Id="8beab2a1-6382-475f-b4f6-638536c6856a" Title="ContainerAsyncInitializerBase(TFrom, TTo, TContainer) Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3.htm">
+          <HelpTOCNode Id="2a957b5f-9a3b-491c-9421-55cdc581233b" Title="AsTask Method " Url="html/Overload_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_AsTask.htm">
+            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_AsTask.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="af2c2e2b-6f68-4edf-bfdf-c6c5872fad03" Title="CreateAsync Method " Url="html/d211b69a-9227-68d4-0f50-dce71b982d19.htm">
-            <HelpTOCNode Title="CreateAsync Method (IEnumerable(Type), CancellationToken)" Url="html/588e7a30-c53c-7a42-f54e-f19fee1cfa64.htm" />
+          <HelpTOCNode Id="2f278ff2-355a-467d-a41b-2a0b789672be" Title="CreateAsync Method " Url="html/Overload_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_CreateAsync.htm">
+            <HelpTOCNode Title="CreateAsync Method (IEnumerable(Type), CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_CreateAsync.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Title="CreateInstance Method " Url="html/93f7f4b0-ffd8-e283-ecc4-745eff53ec52.htm" />
-          <HelpTOCNode Title="GetContainerStrategy Method " Url="html/4b562e05-d9c0-90d2-c055-9055fea04c84.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="57c2ca81-4cec-4484-a101-e92001033af9" Title="IAsyncInitializer(T) Interface" Url="html/d051590a-32d3-1e56-15b8-20870d5e4161.htm">
-        <HelpTOCNode Id="0550f0a0-9a10-401f-852c-09c3dd31a241" Title="IAsyncInitializer(T) Methods" Url="html/8be66add-9301-fb00-ce77-8168176ecf73.htm">
-          <HelpTOCNode Id="380da9c4-a180-401f-bb76-9b4c7a682d92" Title="AsTask Method " Url="html/50d34f1c-3904-d3ea-bc8e-9ef324851d2b.htm">
-            <HelpTOCNode Title="AsTask Method " Url="html/19bad070-5d44-0c87-97ca-058b9378a057.htm" />
-            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/e621066e-b2a3-180f-22ac-77b6ff59be19.htm" />
-          </HelpTOCNode>
+          <HelpTOCNode Title="CreateInstance Method " Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_CreateInstance.htm" />
+          <HelpTOCNode Title="GetContainerStrategy Method " Url="html/M_Ditto_AsyncInit_Services_ContainerAsyncInitializerBase_3_GetContainerStrategy.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1e78b43e-76d1-454e-be53-93d5457d44a1" Title="IContainerStrategy Interface" Url="html/72ad793d-d5a1-6fd0-be44-92b882479700.htm">
-        <HelpTOCNode Id="0d49d6be-d689-4e65-a354-dc9e77b95185" Title="IContainerStrategy Methods" Url="html/43c8d07f-b72a-6ed0-a576-77cb981e6df7.htm">
-          <HelpTOCNode Title="BuildUp(T) Method " Url="html/19461b0a-3248-9e50-4508-ed3287ff3f8e.htm" />
-          <HelpTOCNode Title="TryResolve Method " Url="html/8d2aa254-2220-a19c-4ca9-894b3d99cd70.htm" />
+      <HelpTOCNode Id="a70b4433-e07e-4d76-9f4b-8f026b21c665" Title="IAsyncInitializer(T) Interface" Url="html/T_Ditto_AsyncInit_Services_IAsyncInitializer_1.htm">
+        <HelpTOCNode Id="ff5c5ab8-993c-4150-9e52-feeb2d4f2f62" Title="IAsyncInitializer(T) Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_IAsyncInitializer_1.htm">
+          <HelpTOCNode Id="3eccf6cc-6d86-427c-b46f-0b4c05e6f893" Title="AsTask Method " Url="html/Overload_Ditto_AsyncInit_Services_IAsyncInitializer_1_AsTask.htm">
+            <HelpTOCNode Title="AsTask Method " Url="html/M_Ditto_AsyncInit_Services_IAsyncInitializer_1_AsTask.htm" />
+            <HelpTOCNode Title="AsTask Method (CancellationToken)" Url="html/M_Ditto_AsyncInit_Services_IAsyncInitializer_1_AsTask_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc8ce8bc-6023-4f1b-a334-8069aef8448d" Title="IContainerStrategy Interface" Url="html/T_Ditto_AsyncInit_Services_IContainerStrategy.htm">
+        <HelpTOCNode Id="0feafc75-1fd3-44ea-8dc9-5399442a6c0a" Title="IContainerStrategy Methods" Url="html/Methods_T_Ditto_AsyncInit_Services_IContainerStrategy.htm">
+          <HelpTOCNode Title="BuildUp(T) Method " Url="html/M_Ditto_AsyncInit_Services_IContainerStrategy_BuildUp__1.htm" />
+          <HelpTOCNode Title="TryResolve Method " Url="html/M_Ditto_AsyncInit_Services_IContainerStrategy_TryResolve.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="fd395784-7118-4119-aae6-94b104e4d912" Title="Version History" Url="html/05284ed6-03e8-4665-8764-558ec49bc42e.htm">
+  <HelpTOCNode Id="cb028861-0c66-4187-a436-0c5935d584a4" Title="Version History" Url="html/05284ed6-03e8-4665-8764-558ec49bc42e.htm">
     <HelpTOCNode Title="Version 1.5.0" Url="html/b2a47b18-ac4b-4b8b-9b93-b9edde55c1d6.htm" />
     <HelpTOCNode Title="Version 1.4.2" Url="html/eef50ecb-1370-450e-875b-a92bb20021df.htm" />
     <HelpTOCNode Title="Version 1.4.1" Url="html/8596ecfd-4163-4216-a724-cc048aadd7b3.htm" />

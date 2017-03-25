@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="Ditto.AsyncInit.Unity namespace" Url="html/b98bfd5b-091a-3743-2013-469e2a674f39.htm" />
-  <HelpKINode Title="Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions class" Url="html/f93e3f93-2f6e-559b-2508-6823100c4cbd.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Unity namespace" Url="html/N_Ditto_AsyncInit_Unity.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Unity.UnityContainerAsyncExtensions class" Url="html/T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm" />
   <HelpKINode Title="howto">
     <HelpKINode Title="Unity Container Async Extensions How Tos" Url="html/8e58cf79-69c3-4993-bc6a-6209cb35cc0a.htm" />
     <HelpKINode Title="install" Url="html/b078ce3f-f7cc-41ee-a8fb-0dd91b1b7568.htm" />
@@ -11,18 +11,18 @@
     <HelpKINode Title="register type" Url="html/30e16988-88d9-400d-bf76-21885513e5df.htm" />
     <HelpKINode Title="resolve" Url="html/0432922d-9355-47b5-87f0-28feede0474d.htm" />
   </HelpKINode>
-  <HelpKINode Title="IsAsyncTypeRegistered method" Url="html/6c754ef9-4e11-f76d-991c-f8ab7fa1cef0.htm" />
+  <HelpKINode Title="IsAsyncTypeRegistered method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_IsAsyncTypeRegistered.htm" />
   <HelpKINode Title="license" Url="html/fb08e01a-e83f-43ed-8ff2-ca8ec3ba3fbe.htm" />
-  <HelpKINode Title="RegisterAsyncType method" Url="html/39621dd7-19b1-5377-1bd8-2128b294e05a.htm" />
-  <HelpKINode Title="ResolveAsync method" Url="html/7634816b-b40e-1695-9c89-f3097554b068.htm" />
+  <HelpKINode Title="RegisterAsyncType method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType.htm" />
+  <HelpKINode Title="ResolveAsync method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync.htm" />
   <HelpKINode Title="UnityContainerAsyncExtensions class">
-    <HelpKINode Title="UnityContainerAsyncExtensions Class" Url="html/f93e3f93-2f6e-559b-2508-6823100c4cbd.htm" />
-    <HelpKINode Title="about UnityContainerAsyncExtensions class" Url="html/f93e3f93-2f6e-559b-2508-6823100c4cbd.htm" />
-    <HelpKINode Title="methods" Url="html/e9efd244-4f89-34a1-e0ca-955531858207.htm" />
+    <HelpKINode Title="UnityContainerAsyncExtensions Class" Url="html/T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm" />
+    <HelpKINode Title="about UnityContainerAsyncExtensions class" Url="html/T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="UnityContainerAsyncExtensions.IsAsyncTypeRegistered method" Url="html/6c754ef9-4e11-f76d-991c-f8ab7fa1cef0.htm" />
-  <HelpKINode Title="UnityContainerAsyncExtensions.RegisterAsyncType method" Url="html/39621dd7-19b1-5377-1bd8-2128b294e05a.htm" />
-  <HelpKINode Title="UnityContainerAsyncExtensions.ResolveAsync method" Url="html/7634816b-b40e-1695-9c89-f3097554b068.htm" />
+  <HelpKINode Title="UnityContainerAsyncExtensions.IsAsyncTypeRegistered method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_IsAsyncTypeRegistered.htm" />
+  <HelpKINode Title="UnityContainerAsyncExtensions.RegisterAsyncType method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType.htm" />
+  <HelpKINode Title="UnityContainerAsyncExtensions.ResolveAsync method" Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="Version 1.0.0" Url="html/b48688e3-e650-4382-8f0d-76226f2eb89f.htm" />
     <HelpKINode Title="Version 1.1.0" Url="html/030320a2-7cc3-4e06-9ce4-357a82315d25.htm" />

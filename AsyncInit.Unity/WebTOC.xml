@@ -2,47 +2,47 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/53f4a63d-6a7e-45d8-b0da-060bc7f17ced.htm" />
-  <HelpTOCNode Id="9a8b0f58-bdf9-4ed4-8970-152c048d1db1" Title="Reference" Url="html/3291769d-ebca-a100-8578-f0c84e2d743e.htm">
-    <HelpTOCNode Id="6519141c-7687-4691-a824-5d54a876086f" Title="Ditto.AsyncInit.Unity" Url="html/b98bfd5b-091a-3743-2013-469e2a674f39.htm">
-      <HelpTOCNode Id="4fbbddd0-89fa-47b9-b6e2-dfe5cddce007" Title="UnityContainerAsyncExtensions Class" Url="html/f93e3f93-2f6e-559b-2508-6823100c4cbd.htm">
-        <HelpTOCNode Id="ec9ae5c1-98d1-4506-8aa1-663695c640ad" Title="UnityContainerAsyncExtensions Methods" Url="html/e9efd244-4f89-34a1-e0ca-955531858207.htm">
-          <HelpTOCNode Id="89eb65ab-528b-459c-beb4-8859b1180b05" Title="IsAsyncTypeRegistered Method " Url="html/6c754ef9-4e11-f76d-991c-f8ab7fa1cef0.htm">
-            <HelpTOCNode Title="IsAsyncTypeRegistered(T) Method (IUnityContainer)" Url="html/37b1915a-f084-95b9-7659-6fdac8819273.htm" />
-            <HelpTOCNode Title="IsAsyncTypeRegistered(T) Method (IUnityContainer, String)" Url="html/0aa10e4b-ba26-facd-0b28-99a2f4da7435.htm" />
+  <HelpTOCNode Id="44e0b406-511c-49bc-aae9-5ea39e8ef1ca" Title="Reference" Url="html/R_Project_AsyncInit_Unity.htm">
+    <HelpTOCNode Id="493d25e7-7d63-42cb-899d-110c6aa25bda" Title="Ditto.AsyncInit.Unity" Url="html/N_Ditto_AsyncInit_Unity.htm">
+      <HelpTOCNode Id="06a19b5d-e39a-4b34-bfca-46f100a783eb" Title="UnityContainerAsyncExtensions Class" Url="html/T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm">
+        <HelpTOCNode Id="049240c6-e18e-4f7a-845a-0f9a9d6c18b6" Title="UnityContainerAsyncExtensions Methods" Url="html/Methods_T_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions.htm">
+          <HelpTOCNode Id="04f40b00-0cd5-484e-a34a-464a7ebbc1f5" Title="IsAsyncTypeRegistered Method " Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_IsAsyncTypeRegistered.htm">
+            <HelpTOCNode Title="IsAsyncTypeRegistered(T) Method (IUnityContainer)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_IsAsyncTypeRegistered__1.htm" />
+            <HelpTOCNode Title="IsAsyncTypeRegistered(T) Method (IUnityContainer, String)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_IsAsyncTypeRegistered__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1cccb2e6-8e2c-4bb4-8c84-348a3ad0612d" Title="RegisterAsyncType Method " Url="html/39621dd7-19b1-5377-1bd8-2128b294e05a.htm">
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, AsyncInitArgs)" Url="html/6801fab5-1ba9-8a27-ecbc-fee431eddc16.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, AsyncInitArgs)" Url="html/502d1307-c827-5e3a-ce82-bd7935730eed.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, InjectionMember[])" Url="html/9e300186-8530-62d8-1fdd-2cddf9335246.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, InjectionMember[])" Url="html/aa829e6a-8d7a-a949-547a-6c28f6460adc.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, LifetimeManager, AsyncInitArgs)" Url="html/a9f1618e-27fe-e548-7c65-b00bd0be4546.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, LifetimeManager, AsyncInitArgs)" Url="html/d87a71bd-c732-f55f-e4b0-9012ecd1e4b2.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, LifetimeManager, InjectionMember[])" Url="html/bbed6a90-f08f-dac1-70ba-ba392d7c5701.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, LifetimeManager, InjectionMember[])" Url="html/07d999ce-550a-0e72-691f-87dccc641ecc.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, AsyncInitArgs)" Url="html/35521870-6fd3-1d51-76f5-99628d319419.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, AsyncInitArgs)" Url="html/c4a0564c-3e80-48a6-b6b5-8cbcd2786ecc.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, InjectionMember[])" Url="html/8f05f523-ce6f-f9e8-4e66-ebc73b5ffa21.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, InjectionMember[])" Url="html/7ad08a8b-eeb0-3a47-7c41-fbaa30b9bf22.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, LifetimeManager, AsyncInitArgs)" Url="html/cb9c1ad2-d325-c18a-92ef-0ac579fc884d.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, LifetimeManager, AsyncInitArgs)" Url="html/2189d0fc-732b-0eff-12bd-97571c4678b4.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, LifetimeManager, InjectionMember[])" Url="html/35501576-40b8-4e71-906a-f4010341f100.htm" />
-            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, LifetimeManager, InjectionMember[])" Url="html/0e54df8e-5b73-e18b-f416-50ee0dd54b19.htm" />
+          <HelpTOCNode Id="a31b6379-62f6-46fe-a6ca-ea977f39877b" Title="RegisterAsyncType Method " Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType.htm">
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_1.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_1.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, LifetimeManager, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_2.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, LifetimeManager, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_2.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, LifetimeManager, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_3.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, LifetimeManager, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_3.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_4.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_4.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_5.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_5.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, LifetimeManager, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_6.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, LifetimeManager, AsyncInitArgs)" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_6.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(T) Method (IUnityContainer, String, LifetimeManager, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__1_7.htm" />
+            <HelpTOCNode Title="RegisterAsyncType(TFrom, TTo) Method (IUnityContainer, String, LifetimeManager, InjectionMember[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_RegisterAsyncType__2_7.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c19718fb-2d69-4201-9a87-e56294d497d3" Title="ResolveAsync Method " Url="html/7634816b-b40e-1695-9c89-f3097554b068.htm">
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, ResolverOverride[])" Url="html/f2565206-b177-ffb7-8d60-d6f100e1755c.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, AsyncInitArgs, ResolverOverride[])" Url="html/25968022-df7d-b294-2e6f-b4aae99229da.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, ResolverOverride[])" Url="html/dfa0c7b7-87a8-70d6-495e-71c74e21d6df.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, CancellationToken, ResolverOverride[])" Url="html/2c1b17b0-47cd-88b2-8c54-323bef6a6a7e.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, AsyncInitArgs, CancellationToken, ResolverOverride[])" Url="html/d290b29e-abc4-347d-1b26-095f13c1a550.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, AsyncInitArgs, ResolverOverride[])" Url="html/5a8f570d-42fd-cdb0-5b54-6e70c92a0be3.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, CancellationToken, ResolverOverride[])" Url="html/b4ceafc7-c805-2728-3324-ffe617a61acb.htm" />
-            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, AsyncInitArgs, CancellationToken, ResolverOverride[])" Url="html/0d9a82cc-b032-21d0-5b20-fe2228a6780a.htm" />
+          <HelpTOCNode Id="4b85bf26-4016-472a-a46a-a8bc5d35ed2b" Title="ResolveAsync Method " Url="html/Overload_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync.htm">
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_2.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, AsyncInitArgs, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_5.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, CancellationToken, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_7.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, AsyncInitArgs, CancellationToken, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_1.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, AsyncInitArgs, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_3.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, CancellationToken, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_6.htm" />
+            <HelpTOCNode Title="ResolveAsync(T) Method (IUnityContainer, String, AsyncInitArgs, CancellationToken, ResolverOverride[])" Url="html/M_Ditto_AsyncInit_Unity_UnityContainerAsyncExtensions_ResolveAsync__1_4.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a2bd1b07-6d9c-494b-9b4c-94d94a6e74b3" Title="How To" Url="html/8e58cf79-69c3-4993-bc6a-6209cb35cc0a.htm">
+  <HelpTOCNode Id="f969c7d3-84f1-427c-91bd-69ca17860422" Title="How To" Url="html/8e58cf79-69c3-4993-bc6a-6209cb35cc0a.htm">
     <HelpTOCNode Title="Install Unity Container Async Extensions" Url="html/b078ce3f-f7cc-41ee-a8fb-0dd91b1b7568.htm" />
     <HelpTOCNode Title="Register an Asynchronous Type" Url="html/30e16988-88d9-400d-bf76-21885513e5df.htm" />
     <HelpTOCNode Title="Register an Asynchronous Type Mapping" Url="html/773158a0-bea9-482f-b8ac-9670797b0da5.htm" />
@@ -50,7 +50,7 @@
     <HelpTOCNode Title="Query for an Asynchronous Type Registration" Url="html/6f316ae1-44bb-4773-975b-aac2f5a50c49.htm" />
     <HelpTOCNode Title="Query for a Named Asynchronous Type Registration" Url="html/d38428af-c141-4f56-9a1d-8732f6f9a621.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="10c77200-9464-4e80-94b2-7c3f920bab2b" Title="Version History" Url="html/0caa88a8-58e0-444e-866c-2332ddb7b5d9.htm">
+  <HelpTOCNode Id="52d052e2-f709-4ddc-878b-933886b53444" Title="Version History" Url="html/0caa88a8-58e0-444e-866c-2332ddb7b5d9.htm">
     <HelpTOCNode Title="Version 1.6.0" Url="html/68a94beb-6de7-4cce-81a5-a673324e82b6.htm" />
     <HelpTOCNode Title="Version 1.5.0" Url="html/1030daf9-d680-44c5-8a6f-f340d2d34f1d.htm" />
     <HelpTOCNode Title="Version 1.4.0" Url="html/5c80623b-72bd-4c67-9c95-7b327faaa5de.htm" />
